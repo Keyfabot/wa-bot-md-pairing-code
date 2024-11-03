@@ -40,7 +40,7 @@ module.exports = {
   auto_read_messages: true,
   auto_typing: true,
   auto_recording: false,
-  mongodb_uri: 'Your-MongoDb-URI', // Register here: https://mongodb.com/#sign-up
+  mongodb_uri: 'Your-MongoDb-URI', // Register here: mongodb+srv://ykeyfa:<db_password>@kayfa.o2gyq.mongodb.net/?retryWrites=true&w=majority&appName=Kayfa
   api: {
     url: 'https://daniapi.biz.id',
     key: 'Your-API-key' // Register here: https://daniapi.biz.id/#sign-up
